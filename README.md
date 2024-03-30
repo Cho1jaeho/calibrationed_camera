@@ -1,5 +1,5 @@
-# calibrationed_camera
-calibrationed camera program with OpenCV in python
+# calibrated_camera
+calibrated camera program with OpenCV in python
 <h1>소개</h1>
 <p>체스보드를 동영상으로 촬영한 파일에 캘리브레이션을 추가해 보았다.</p>
 <h1>기능</h1>
